@@ -9,4 +9,5 @@
 Create an app that has one button. When the button is pressed, the current temperature in Houston Texas is shown in a text field. By current temperature, we mean the temperature when we run your app.
 
 # Your comments or assumptions
-- <add them here>
+- Assumes the program is for one time use; if you want to view the weather again, close the program and rerun.The button will be removed after the first time it is clicked. 
+- Assuming that using JLabel is okay for displaying temperature. 
